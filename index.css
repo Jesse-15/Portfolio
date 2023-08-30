@@ -1,0 +1,34 @@
+footer{
+    height: 80px;
+    text-align: center;
+    background-color: rgb(58, 56, 56);
+    color: white;
+}
+img{
+    display: flex;
+    justify-content: center;
+    border-radius: 250px;
+}
+
+.col{
+  text-align: center;
+}
+.main{
+
+}
+.bio{
+  padding: 1rem;
+  background-color: rgb(241, 198, 147);
+  text-align: center;
+}
+body{
+    padding: 2rem;
+}
+.row{
+    padding: 3rem 1rem;
+}
+.content li:hover{
+    background-color: red;
+    border-radius: 30px;
+    transition: 1s;
+}
